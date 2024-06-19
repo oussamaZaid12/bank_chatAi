@@ -1,0 +1,16 @@
+{
+  "labels":[
+    "salutation",
+    "ouverture_compte",
+    "info_compte",
+    "support_technique",
+    "demande_pret",
+    "info_generale",
+    "info_sucursale",
+    "info_investissement",
+    "info_assurance",
+    "fermeture_compte",
+    "question_rh_ssi"
+  ],
+  "threshold":0.5
+}
