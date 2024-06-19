@@ -1,0 +1,28 @@
+# train_data.py
+TRAIN_DATA = [
+    ("Bonjour", {"cats": {"salutation": 1.0}}),
+    ("Salut", {"cats": {"salutation": 1.0}}),
+    ("Bonsoir", {"cats": {"salutation": 1.0}}),
+    ("Hello", {"cats": {"salutation": 1.0}}),
+    ("Hi", {"cats": {"salutation": 1.0}}),
+    ("Comment puis-je ouvrir un compte chez Attijari?", {"cats": {"ouverture_compte": 1.0}}),
+    ("Quels types de comptes offrez-vous?", {"cats": {"info_compte": 1.0}}),
+    ("J'ai oublié mon mot de passe bancaire en ligne, que faire?", {"cats": {"support_technique": 1.0}}),
+    ("Comment puis-je demander un prêt?", {"cats": {"demande_pret": 1.0}}),
+    ("Quelles sont vos heures d'ouverture?", {"cats": {"info_generale": 1.0}}),
+    ("Où se trouve la succursale la plus proche?", {"cats": {"info_sucursale": 1.0}}),
+    ("Pouvez-vous m'aider avec mon application mobile?", {"cats": {"support_technique": 1.0}}),
+    ("Quelles options d'investissement proposez-vous?", {"cats": {"info_investissement": 1.0}}),
+    ("Quelles assurances sont disponibles?", {"cats": {"info_assurance": 1.0}}),
+    ("Je souhaite fermer mon compte, comment procéder?", {"cats": {"fermeture_compte": 1.0}}),
+    ("Quelles mesures de sécurité devons-nous renforcer pour protéger les données des employés?", {"cats": {"question_rh_ssi": 1.0}}),
+    ("Pouvons-nous accéder à l'audit de sécurité le plus récent?", {"cats": {"question_rh_ssi": 1.0}}),
+    ("Comment pouvons-nous améliorer la formation à la sécurité pour les nouveaux employés?", {"cats": {"question_rh_ssi": 1.0}}),
+    ("Quels sont les risques de sécurité actuels les plus critiques pour notre organisation?", {"cats": {"question_rh_ssi": 1.0}}),
+    ("Y a-t-il des failles de sécurité que nous devons adresser immédiatement?", {"cats": {"question_rh_ssi": 1.0}}),
+    ("Comment la dernière violation de données affecte-t-elle notre politique de sécurité?", {"cats": {"question_rh_ssi": 1.0}}),
+    ("Quels outils utilisons-nous pour surveiller les violations de données?", {"cats": {"question_rh_ssi": 1.0}}),
+    ("Comment les RH peuvent-elles aider à renforcer la conformité aux normes de sécurité?", {"cats": {"question_rh_ssi": 1.0}}),
+    ("Quelles procédures suivons-nous en cas de fuite de données?", {"cats": {"question_rh_ssi": 1.0}}),
+    ("Comment assurer la sécurité des informations lors des télétravails?", {"cats": {"question_rh_ssi": 1.0}})
+]
